@@ -1,0 +1,2 @@
+# GestionDeLaCadenaDeValor
+Graficas
